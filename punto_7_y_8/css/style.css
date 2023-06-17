@@ -1,0 +1,28 @@
+/*PUNTO 7*/
+/*efectos de caja de nav*/
+.p7_nav {
+    background-color: rgb(228, 188, 221);
+    min-height: 80px;
+    width: 630px;
+}
+
+/*estilo horizontal de lista*/
+.p7_nav ul {
+    display: inline-flex;
+}
+
+/*estilos del menú*/
+.p7_nav li {
+    padding: 12px;
+    list-style: none;
+}
+
+.p7_nav li:hover {
+    background-color: blue;
+}
+
+.p7_nav a {
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+
+}

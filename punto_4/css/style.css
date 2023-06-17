@@ -1,0 +1,15 @@
+/*estilos primer parrafo*/
+#p1{
+    color: #0000FF;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#p2{
+    color: #FF0000;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}

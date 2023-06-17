@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+/*estilos primer parrafo*/
+#p1 {
+    color: #0a0a0a;
+    font-size: 40px;
+}
+
+/*estilos segundo parrafo*/
+#p2 a {
+    color: #fffb00;
+    font-size: 40px;
+}
+
+/*estilos tercer parrafo*/
+#p3 a {
+    line-height: 2.5;
+    color: #6b0874;
+    font-size: 40px;
+}
